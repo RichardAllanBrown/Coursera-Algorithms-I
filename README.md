@@ -25,4 +25,9 @@ Week 3 - Collinear Points
 Week 4 - 8 Puzzle
 -----------------
  - **Board.java** - Represents a sliding puzzle board.
- - **Solver.java* - Uses A* and to find solution to the puzzle board.
+ - **Solver.java** - Uses A* and to find solution to the puzzle board.
+
+Week 5 - KdTree
+---------------
+ - **PointSet.java** - A set of points on a 2D Euclidian plane, some simple function like nearest and contains.
+ - **kDTree.java** - Uses a 2d tree to more efficiently perform functions such as nearest and contains.
